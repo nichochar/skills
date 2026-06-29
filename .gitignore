@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Skill dev workspaces (eval runs, benchmarks)
+*-workspace/
