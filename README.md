@@ -18,11 +18,14 @@ No categories, no nesting — keeping it simple. To find a skill, scan the list 
 
 ## Skills
 
-_(none yet — add each new skill here as a one-line entry)_
+- **grill-me** — _(draft in progress)_ quizzes/"grills" you on a topic to test or deepen understanding.
 
 <!--
-Example entry format:
+Add each new skill here as a one-line entry, e.g.:
 - **skill-name** — one-line description of what it does and when it triggers.
+
+Planned:
+- codebase-explore — (TBD, brainstorming the right shape)
 -->
 
 ## Anatomy of a skill
