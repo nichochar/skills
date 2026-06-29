@@ -18,7 +18,7 @@ No categories, no nesting — keeping it simple. To find a skill, scan the list 
 
 ## Skills
 
-- **grill-me** — _(draft in progress)_ quizzes/"grills" you on a topic to test or deepen understanding.
+- **grill-me** — asks you questions one at a time (with a recommended answer each) until it has a strong shared understanding of a project or task. Triggers on `/grill`, `/grill-me`, or similar.
 
 <!--
 Add each new skill here as a one-line entry, e.g.:
