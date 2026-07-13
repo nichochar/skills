@@ -12,3 +12,7 @@ venv/
 
 # Skill dev workspaces (eval runs, benchmarks)
 *-workspace/
+
+# Kindle highlights runtime data (may contain private book notes)
+/kindle-highlights/data/
+/kindle-highlights/output/

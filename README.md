@@ -7,6 +7,7 @@ Each skill is a top-level folder with a `SKILL.md` (YAML frontmatter + Markdown 
 ## Skills
 
 - **grill-me** — asks you questions one at a time until it has a strong shared understanding of a project or task. Triggers on `/grill`, `/grill-me`, or similar.
+- **kindle-highlights** — imports Kindle clippings into SQLite for searching, flashcards, and offline study sites, with English and French header support.
 
 ## Installing
 

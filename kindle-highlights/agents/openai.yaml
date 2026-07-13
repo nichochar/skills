@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kindle Highlights"
+  short_description: "Sync, search, and study Kindle highlights"
+  default_prompt: "Use $kindle-highlights to sync my Kindle clippings and turn highlights into searchable study material."
