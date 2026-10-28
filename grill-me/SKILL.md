@@ -12,5 +12,3 @@ If you can uncover answers by doing research autonomously, do so.
 The goal is to make sure you can build a strong project description and then hand that over, so that it will get executed with precision.
 
 For each question, provide your recommended answer.
-
-Ask one question at a time, multiple is hard to process.
