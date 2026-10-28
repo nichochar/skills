@@ -8,7 +8,7 @@ Each skill is a top-level folder with a `SKILL.md` (YAML frontmatter + Markdown 
 
 - **bro** — restates the previous message in plain human language, no jargon. Invoke with `/bro`; it never fires on its own.
 - **explain-diff** — turns a diff, branch, or PR into a self-contained HTML explainer with background, intuition, a code walkthrough, and an interactive quiz.
-- **grill-me** — asks you questions one at a time until it has a strong shared understanding of a project or task. Triggers on `/grill`, `/grill-me`, or similar.
+- **grill-me** — grills you in rounds of numbered questions (each with a recommended answer) until it has a strong shared understanding of a project or task. Triggers on `/grill`, `/grill-me`, or similar.
 - **i-have-adhd** — shapes every reply for an ADHD reader: concrete next action first, numbered steps, no tangents, real time estimates.
 - **kindle-highlights** — imports Kindle clippings into SQLite for searching, flashcards, and offline study sites, with English and French header support.
 
