@@ -11,6 +11,7 @@ Each skill is a top-level folder with a `SKILL.md` (YAML frontmatter + Markdown 
 - **grill-me** — grills you in rounds of numbered questions (each with a recommended answer) until it has a strong shared understanding of a project or task. Triggers on `/grill`, `/grill-me`, or similar.
 - **i-have-adhd** — shapes every reply for an ADHD reader: concrete next action first, numbered steps, no tangents, real time estimates.
 - **kindle-highlights** — imports Kindle clippings into SQLite for searching, flashcards, and offline study sites, with English and French header support.
+- **stageshow** — builds faux product UI that looks like a real product, as a still illustration or an animated demo with a cursor. Browser and app windows, dashboards, phones, notifications, terminals, bento grids and cursor walkthroughs. Credit: [Benji Taylor / benjitaylor/skills](https://github.com/benjitaylor/skills) (MIT).
 - **writing-review** — critiques essays and blog posts structure-first (one point, lead, mechanism, missing objection, ending), then evidence, voice, and lines; always ends with a ship / one-pass-away / rework verdict.
 
 ## Installing
