@@ -12,6 +12,7 @@ Each skill is a top-level folder with a `SKILL.md` (YAML frontmatter + Markdown 
 - **i-have-adhd** — shapes every reply for an ADHD reader: concrete next action first, numbered steps, no tangents, real time estimates.
 - **kindle-highlights** — imports Kindle clippings into SQLite for searching, flashcards, and offline study sites, with English and French header support.
 - **stageshow** — builds faux product UI that looks like a real product, as a still illustration or an animated demo with a cursor. Browser and app windows, dashboards, phones, notifications, terminals, bento grids and cursor walkthroughs. Credit: [Benji Taylor / benjitaylor/skills](https://github.com/benjitaylor/skills) (MIT).
+- **technical-writing** — layered technical-writing standard (Diátaxis structure, Google developer style sentences, STE instruction rules, Global English syntax) for docs, RFCs, READMEs, PR descriptions, and commit messages. Invoke with `/technical-writing`; it never fires on its own. Credit: [cursor/plugins (pstack)](https://github.com/cursor/plugins/blob/main/pstack/skills/technical-writing/SKILL.md).
 - **writing-review** — critiques essays and blog posts structure-first (one point, lead, mechanism, missing objection, ending), then evidence, voice, and lines; always ends with a ship / one-pass-away / rework verdict.
 
 ## Installing
