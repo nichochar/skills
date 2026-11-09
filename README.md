@@ -9,6 +9,7 @@ Each skill is a top-level folder with a `SKILL.md` (YAML frontmatter + Markdown 
 - **bro** — restates the previous message in plain human language, no jargon. Invoke with `/bro`; it never fires on its own.
 - **explain-diff** — turns a diff, branch, or PR into a self-contained HTML explainer with background, intuition, a code walkthrough, and an interactive quiz.
 - **grill-me** — grills you in rounds of numbered questions (each with a recommended answer) until it has a strong shared understanding of a project or task. Triggers on `/grill`, `/grill-me`, or similar.
+- **socratic-tutor** — turns an LLM into a strict personal tutor that teaches a topic of your choice using the Socratic method: a diagnostic, a skill map with levels 0-5, one question at a time, spaced review, and a final assessment. Credit: [Jane Street / janestreet/agent_skills](https://github.com/janestreet/agent_skills) (MIT).
 - **i-have-adhd** — shapes every reply for an ADHD reader: concrete next action first, numbered steps, no tangents, real time estimates.
 - **kindle-highlights** — imports Kindle clippings into SQLite for searching, flashcards, and offline study sites, with English and French header support.
 - **stageshow** — builds faux product UI that looks like a real product, as a still illustration or an animated demo with a cursor. Browser and app windows, dashboards, phones, notifications, terminals, bento grids and cursor walkthroughs. Credit: [Benji Taylor / benjitaylor/skills](https://github.com/benjitaylor/skills) (MIT).
@@ -18,6 +19,14 @@ Each skill is a top-level folder with a `SKILL.md` (YAML frontmatter + Markdown 
 ## Installing
 
 This repo is just source-of-truth; the tools don't scan it. Run `./install.sh` to copy every skill into both Claude Code (`~/.claude/skills/`) and Codex (`~/.codex/skills/`), then restart your session. The script overwrites same-named skills in those dirs, so keep this repo authoritative.
+
+## Attribution
+
+Some skills in this collection are adapted from or inspired by other sources:
+
+- **socratic-tutor** — from [janestreet/agent_skills](https://github.com/janestreet/agent_skills), Copyright (c) 2026 Jane Street Group, LLC, MIT License
+- **stageshow** — from [benjitaylor/skills](https://github.com/benjitaylor/skills), MIT License
+- **technical-writing** — from [cursor/plugins (pstack)](https://github.com/cursor/plugins/blob/main/pstack/skills/technical-writing/SKILL.md)
 
 ## Adding a new skill
 
